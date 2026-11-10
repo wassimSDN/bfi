@@ -1,1 +1,1 @@
-"brainf*ck interpreter written in C++" 
+brainf*ck interpreter written in C++
